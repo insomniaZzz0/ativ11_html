@@ -1,3 +1,33 @@
 body{background-color: black;
 color: white;
 }
+h1 {
+    color: white;
+    text-align: center;
+    font-family: "Jim Nightshade", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+p {
+ font-family: verdana;
+ font-size: 20px;
+ color: white;
+}
+
+h2{
+ font-size: 1.75em;
+ text-align: center;
+}
+  
+a{
+   font-size: 1.5em; 
+}
+
+#tit1{
+    color: red;
+}
+
+.verde{
+    color: chartreuse;
+}
